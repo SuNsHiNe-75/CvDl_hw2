@@ -5,7 +5,7 @@ This is the second assignment of the "Computer Vision and Deep Learning" course 
 #### Establishing Environment
 Referring to [CvDl_hw1](https://github.com/SuNsHiNe-75/CvDl_hw1).  
 
-In addtion, we should download this also:  
+In addition, we should download this also:  
 ```shell
 pip install scikit-learn
 ```
